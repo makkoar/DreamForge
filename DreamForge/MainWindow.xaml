@@ -1,0 +1,11 @@
+﻿<Window x:Class="DreamForge.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="Dream Forge" Height="450" Width="800">
+    <Viewbox Grid.Column="1" Grid.Row="1">
+        <Border BorderThickness="5" BorderBrush="Black">
+            <Grid Width="1980" Height="1080">
+
+            </Grid>
+        </Border>
+    </Viewbox>
+</Window>
